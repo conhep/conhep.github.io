@@ -44,7 +44,7 @@
               <div class="panel-body sidebar-text list-unstyled">
                 {% for page in site.pages %}
                   {% if page.title %}
-                    {% if page.categories contains "pregrado" %}              
+                    {% if page.categories contains "members" %}              
                       <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title}} </a></li>                  
                     {% endif %}   
                   {% endif %}
