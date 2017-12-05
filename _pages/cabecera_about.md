@@ -1,6 +1,6 @@
 ---
-title: Admisiones
-permalink: "/admision"
+title: About
+permalink: "/about"
 layout: page
 categories:
 - header
