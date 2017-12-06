@@ -5,7 +5,7 @@ layout: page
 categories:
 - members
 ---
-# Consejo Directivo
+
 Actualmente los miembros del Consejo Directivo son:
 * Diego Milanés (Universidad Nacional de Colombia, sede Bogotá)
 * Jairo Alexis Rodríguez (Universidad Nacional de Colombia, sede Bogotá)
