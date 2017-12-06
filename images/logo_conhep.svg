@@ -27,7 +27,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.5793555"
+     inkscape:zoom="1.780884"
      inkscape:cx="239.20705"
      inkscape:cy="51.453125"
      inkscape:document-units="px"
@@ -50,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -178,36 +178,48 @@
          inkscape:connector-curvature="0" />
       <path
          id="path3977"
-         style="font-family:'Good Times';-inkscape-font-specification:'Good Times';fill:#003893"
-         d="m 604.85987,222.93575 -14.832,34.056 c -0.52804,1.104 -1.17604,1.968 -1.94399,2.592 -0.72005,0.576 -1.63205,0.864 -2.736,0.864 -2.11204,0 -3.67204,-1.152 -4.68001,-3.456 l -14.76,-34.056 -10.008,36.792 h -9 l 13.464,-49.248 c 0.62399,-2.49595 2.13599,-3.74394 4.536,-3.744 0.95998,6e-5 1.84798,0.26406 2.66401,0.792 0.86397,0.52805 1.51197,1.29605 1.944,2.304 l 16.128,37.008 16.12799,-37.008 c 0.86395,-2.06395 2.32795,-3.09594 4.39201,-3.096 2.20793,6e-5 3.67193,1.24805 4.39199,3.744"
+         style="font-family:'Good Times';-inkscape-font-specification:'Good Times';fill:#ce1126;fill-opacity:1"
+         d="m 552.58787,222.93575 14.832,34.056 c 0.52804,1.104 1.17604,1.968 1.94399,2.592 0.72005,0.576 1.63205,0.864 2.736,0.864 2.11204,0 3.67204,-1.152 4.68001,-3.456 l 14.76,-34.056 10.008,36.792 h 9 l -13.464,-49.248 c -0.62399,-2.49595 -2.13599,-3.74394 -4.536,-3.744 -0.95998,6e-5 -1.84798,0.26406 -2.66401,0.792 -0.86397,0.52805 -1.51197,1.29605 -1.944,2.304 l -16.128,37.008 -16.12799,-37.008 c -0.86395,-2.06395 -2.32795,-3.09594 -4.39201,-3.096 -2.20793,6e-5 -3.67193,1.24805 -4.39199,3.744"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccscccccccccccc" />
       <path
-         style="fill:#fcd116;fill-opacity:1;font-family:Good Times;-inkscape-font-specification:Good Times"
+         style="fill:#003893;fill-opacity:1;font-family:Good Times;-inkscape-font-specification:Good Times"
          d="m 666.12475,259.94375 0,-22.752 -26.352,0 0,-8.136 26.352,0 0,-21.672 9.144,0 0,52.56 -9.144,0"
          id="path3987"
          inkscape:connector-curvature="0" />
       <path
-         style="fill:#fcd116;fill-opacity:1;font-family:Good Times;-inkscape-font-specification:Good Times"
+         style="fill:#003893;fill-opacity:1;font-family:Good Times;-inkscape-font-specification:Good Times"
          d="m 624.00475,259.94375 0,-52.56 9.144,0 0,52.56 -9.144,0"
          id="path3979"
          inkscape:connector-curvature="0" />
       <path
          id="path3981"
-         style="fill:#fcd116;fill-opacity:1;font-family:Good Times;-inkscape-font-specification:Good Times"
+         style="fill:#003893;fill-opacity:1;font-family:Good Times;-inkscape-font-specification:Good Times"
          d="m 684.33287,259.72775 0,-52.344 46.728,0 0,9.144 -37.656,0 0,34.056 37.72801,0 0,9.144 -46.80001,0 m 15.768,-22.752 0,-7.704 29.01601,0 0,7.704 -29.01601,0"
          inkscape:connector-curvature="0" />
       <path
          id="path3983"
-         style="fill:#fcd116;fill-opacity:1;font-family:Good Times;-inkscape-font-specification:Good Times"
+         style="fill:#003893;fill-opacity:1;font-family:Good Times;-inkscape-font-specification:Good Times"
          d="m 754.804,245.18375 0,-8.856 21.024,0 c 3.21596,3e-5 5.71195,-0.88797 7.488,-2.664 1.82395,-1.82397 2.73595,-4.24797 2.736,-7.272 -5e-5,-3.02396 -0.91205,-5.42396 -2.736,-7.2 -1.77605,-1.77596 -4.27204,-2.66395 -7.488,-2.664 l -27.72,0 0,43.2 -9.072,0 0,-52.344 36.792,0 c 3.02396,6e-5 5.71195,0.45605 8.064,1.368 2.39995,0.86405 4.41595,2.11205 6.048,3.744 1.63194,1.58405 2.87994,3.52805 3.744,5.832 0.86394,2.30404 1.29594,4.89604 1.296,7.776 -6e-5,2.83203 -0.43206,5.42403 -1.296,7.776 -0.86406,2.30403 -2.11206,4.29602 -3.744,5.976 -1.63205,1.68002 -3.64805,3.00002 -6.048,3.96 -2.35205,0.91202 -5.04004,1.36802 -8.064,1.368 l -21.024,0"
          inkscape:connector-curvature="0" />
       <path
-         style="fill:#003893;fill-opacity:1;font-family:Good Times;-inkscape-font-specification:Good Times"
+         style="fill:#ce1126;fill-opacity:1;font-family:Good Times;-inkscape-font-specification:Good Times"
          d="m 513.5646,207.39389 -6.125,0 0,9.125 6.125,0 c 2.39996,5e-5 4.60895,0.4488 6.625,1.31275 2.01595,0.81604 3.74745,1.94954 5.1875,3.4375 1.48795,1.48804 2.65269,3.29429 3.46875,5.40625 0.81594,2.06403 1.21869,4.33328 1.21875,6.78125 -6e-5,2.44803 -0.40281,4.73177 -1.21875,6.84375 -0.81606,2.11202 -1.9808,3.93277 -3.46875,5.46875 -1.44005,1.48802 -3.17155,2.66726 -5.1875,3.53125 -2.01605,0.86401 -4.22504,1.28151 -6.625,1.2815 l -6.125,0 0,9.156 6.125,0 c 3.74396,0 7.19245,-0.68725 10.3125,-2.03125 3.11995,-1.39199 5.80644,-3.27299 8.0625,-5.625 2.30394,-2.39999 4.06444,-5.20473 5.3125,-8.46875 1.29593,-3.26398 1.93743,-6.80172 1.9375,-10.59375 -7e-5,-3.79197 -0.62707,-7.25496 -1.875,-10.375 -1.24806,-3.16796 -2.99406,-5.86895 -5.25,-8.125 -2.25606,-2.25595 -4.95705,-4.00195 -8.125,-5.25 -3.12005,-1.24795 -6.58304,-1.87519 -10.375,-1.87525 z"
          id="path4006"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccccccccscccccccccccc" />
+      <path
+         sodipodi:nodetypes="ccsccccccccc"
+         inkscape:connector-curvature="0"
+         d="m 567.41987,256.99175 c 0.52804,1.104 1.17604,1.968 1.94399,2.592 0.72005,0.576 1.63205,0.864 2.736,0.864 2.11204,0 3.67204,-1.152 4.68001,-3.456 l 14.76,-34.056 10.008,36.792 h 9 l -13.464,-49.248 c -0.62399,-2.49595 -2.13599,-3.74394 -4.536,-3.744 -0.95998,6e-5 -1.84798,0.26406 -2.66401,0.792 -0.86397,0.52805 -1.51197,1.29605 -1.944,2.304 l -16.128,37.008"
+         style="font-family:'Good Times';-inkscape-font-specification:'Good Times';fill:#fcd116;fill-opacity:1"
+         id="path51" />
+      <path
+         id="path53"
+         style="font-family:'Good Times';-inkscape-font-specification:'Good Times';fill:#003893;fill-opacity:1"
+         d="m 591.53987,222.93575 10.008,36.792 h 9 l -13.464,-49.248 c -0.62399,-2.49595 -2.13599,-3.74394 -4.536,-3.744 -0.95998,6e-5 -1.84798,0.26406 -2.66401,0.792 -0.86397,0.52805 -1.51197,1.29605 -1.944,2.304"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc" />
     </g>
     <text
        xml:space="preserve"
