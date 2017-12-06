@@ -21,3 +21,5 @@ Actualmente los miembros del Consejo Directivo son:
 * Diego Restrepo (Universidad de Antioquia)
 * Eduardo Rojas (Universidad de Antioquia)
 * Óscar Zapata (Universidad de Antioquia)
+* Carlos Yaguna (UPTC)
+* NN (Representante diáspora)
