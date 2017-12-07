@@ -24,3 +24,5 @@ Actualmente los miembros del Consejo Directivo son:
 * Carlos Yaguna (UPTC)
 * Diego Aristizabal (Representante diáspora)
 * Nestor Quintero (Universidad Santiago de Cali)
+* Bobby Acharya (ICTP)
+* Bruno El-Bennich
