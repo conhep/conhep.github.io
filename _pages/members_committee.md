@@ -23,3 +23,4 @@ Actualmente los miembros del Consejo Directivo son:
 * Óscar Zapata (Universidad de Antioquia)
 * Carlos Yaguna (UPTC)
 * Diego Aristizabal (Representante diáspora)
+* Nestor Quintero (Universidad Santiago de Cali)
