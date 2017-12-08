@@ -28,3 +28,4 @@ Actualmente los miembros del Consejo Directivo son:
 * Bruno El-Bennich  (Universidade Cruzeiro do Sul, Brazil)
 * Yeinson Rodríguez (Universidad Industrial de Santander)
 * Alberto Correa Dos Reis (CBPF - Centro Brasileiro de Pesquisas Físicas, Brazil)
+[R](./dir/README.md)
