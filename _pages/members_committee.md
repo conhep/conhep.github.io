@@ -25,4 +25,6 @@ Actualmente los miembros del Consejo Directivo son:
 * Diego Aristizabal (Representante diáspora)
 * Nestor Quintero (Universidad Santiago de Cali)
 * Bobby Acharya (ICTP)
-* Bruno El-Bennich
+* Bruno El-Bennich  (Universidade Cruzeiro do Sul, Brazil)
+* Yeinson Rodríguez (Universidad Industrial de Santander)
+* Alberto Correa Dos Reis (CBPF - Centro Brasileiro de Pesquisas Físicas, Brazil)
