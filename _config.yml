@@ -1,5 +1,5 @@
 ---
-title: Posgrados Instituto de Física
+title: Colombian network of high energy physics
 timezone: UTC
 collections:
   posts:
@@ -8,8 +8,8 @@ collections:
   uploads:
     title: Uploads
     output: true
-description: Universidad de Antioquia
-email: posgrados@gfif.udea.edu.co
+description: ConHEP
+email: comhep@gmail.com
 baseurl: ""
 admision: "/admision"
 indicador: "/indicador"
