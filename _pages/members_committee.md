@@ -19,7 +19,7 @@ Actualmente los miembros del Consejo Directivo son:
 * Richard Benavides (Instituto Tecnológico Metropolitano)
 * Luis Muñoz (Instituto Tecnológico Metropolitano)
 * Diego Restrepo (Universidad de Antioquia)
-* Eduardo Rojas (Universidad de Antioquia)
+* Eduardo Rojas (Universidad de Nariño)
 * Óscar Zapata (Universidad de Antioquia)
 * Carlos Yaguna (UPTC)
 * Diego Aristizabal (Representante diáspora)
